@@ -63,6 +63,11 @@ const tools = computed<ToolCategory[]>(() => [
           <div>
             © {{ new Date().getFullYear() }} · 本站基于开源项目二次开发
           </div>
+          <div>
+            <router-link to="/about" class="footer-link">{{ $t('home.nav.aboutLabel') }}</router-link>
+            ·
+            <router-link to="/privacy" class="footer-link">{{ $t('home.nav.privacy') }}</router-link>
+          </div>
         </div>
       </div>
     </template>
@@ -133,6 +138,15 @@ const tools = computed<ToolCategory[]>(() => [
   color: #838587;
   margin-top: 20px;
   padding: 20px 0;
+
+  .footer-link {
+    color: #838587;
+    text-decoration: none;
+
+    &:hover {
+      color: #18a058;
+    }
+  }
 }
 
 .sider-content {

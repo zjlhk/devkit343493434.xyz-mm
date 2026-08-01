@@ -1,0 +1,9 @@
+<script setup lang="ts">
+import { useHead } from '@vueuse/head';
+
+useHead({ title: 'Privacy Policy - DevBox' });
+</script>
+
+<template>
+  <c-markdown :markdown="$t('privacy.content')" mx-auto mt-50px max-w-600px />
+</template>

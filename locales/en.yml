@@ -24,6 +24,7 @@ home:
     twitterXAccount: 'DevBox X account'
     about: 'About DevBox'
     aboutLabel: 'About'
+    privacy: 'Privacy Policy'
     darkMode: 'Dark mode'
     lightMode: 'Light mode'
     mode: 'Toggle dark/light mode'
@@ -46,6 +47,45 @@ about:
     ## Found a bug? A tool is missing?
 
     If you need a tool that is currently not present here, and you think it could be useful, you are welcome to submit a feature request. If you found a bug, or something doesn't work as expected, please file a bug report.
+privacy:
+  content: >
+    # Privacy Policy
+
+    **Effective date:** August 1, 2026
+
+    At DevBox ("we", "us", or "our"), your privacy matters to us. This policy explains what information we collect and how we use it.
+
+    ## 1. No data collection by the tools
+
+    All tools on this website run entirely in your browser (client-side). **We do not collect, store, or transmit any data you enter, upload, or generate** while using the tools. Everything stays on your device.
+
+    ## 2. Analytics
+
+    We may use privacy-friendly, aggregated analytics (such as Cloudflare Web Analytics) to understand how the site is used. This data is anonymized and does not identify you personally.
+
+    ## 3. Advertising
+
+    This website may display advertising served by third-party networks (such as Google AdSense). These networks may use cookies or similar technologies to serve ads based on your prior visits to this and other websites. You can learn more about Google's use of data and how to opt out at [Google's Advertising Policies](https://policies.google.com/technologies/partner-sites).
+
+    ## 4. Cookies
+
+    We use a minimal number of cookies: they are used solely to remember your preferences (such as dark/light theme and favorite tools) stored locally in your browser. You can clear them at any time through your browser settings.
+
+    ## 5. Third-party links
+
+    This website may contain links to external sites. We are not responsible for the privacy practices of those sites.
+
+    ## 6. Children's privacy
+
+    This website is not directed to children under 13, and we do not knowingly collect personal information from children.
+
+    ## 7. Changes to this policy
+
+    We may update this policy from time to time. Any changes will be posted on this page with an updated effective date.
+
+    ## 8. Contact
+
+    If you have any questions about this privacy policy, please contact us via the contact information provided on the site.
 
 404:
   notFound: '404 Not Found'
