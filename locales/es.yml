@@ -8,36 +8,36 @@ home:
  toggleMenu: 'Toggle menu'
  home: Home
  uiLib: 'UI Lib'
- support: 'Apoyar el desarrollo de DevBox'
+ support: 'Apoyar el desarrollo de DevKit'
  buyMeACoffee: 'Buy me a coffee'
  follow:
   title: 'Te gustan las it-tools?'
   p1: 'Danos una estrella en'
-  githubRepository: 'Repositorio de DevBox en GitHub'
+  githubRepository: 'Repositorio de DevKit en GitHub'
   p2: 'o síguenos en'
-  twitterXAccount: 'Cuenta de X de DevBox'
+  twitterXAccount: 'Cuenta de X de DevKit'
   thankYou: 'Muchas gracias!'
  nav:
   github: 'Repositorio en github'
-  githubRepository: 'DevBox GitHub repository'
+  githubRepository: 'DevKit GitHub repository'
   twitterX: 'Cuenta de X'
-  twitterXAccount: 'Cuenta de X de DevBox'
-  about: 'Sobre DevBox'
+  twitterXAccount: 'Cuenta de X de DevKit'
+  about: 'Sobre DevKit'
   aboutLabel: 'Sobre'
   darkMode: 'Modo obscuro'
   lightMode: 'Modo claro'
   mode: 'Alternar modo oscuro/claro'
 about:
  content: >
-  # Sobre DevBox
+  # Sobre DevKit
 
-  Este maravilloso sitio web, hecho con ❤ por DevBox, agrega herramientas útiles para desarrolladores y personas que trabajan en IT. Si lo encuentra útil, no dude en compartirlo con las personas que crea que también pueden encontrarlo útil y ¡no olvide marcarlo como favorito en su barra de accesos directos!
+  Este maravilloso sitio web, hecho con ❤ por DevKit, agrega herramientas útiles para desarrolladores y personas que trabajan en IT. Si lo encuentra útil, no dude en compartirlo con las personas que crea que también pueden encontrarlo útil y ¡no olvide marcarlo como favorito en su barra de accesos directos!
 
-  DevBox es de código abierto (under the GPL-3.0 license) y gratis, y siempre lo será, pero me cuesta dinero alojar y renovar el nombre de dominio. Si desea apoyar mi trabajo y animarme a agregar más herramientas, considere apoyarme a través de.
+  DevKit es de código abierto (under the GPL-3.0 license) y gratis, y siempre lo será, pero me cuesta dinero alojar y renovar el nombre de dominio. Si desea apoyar mi trabajo y animarme a agregar más herramientas, considere apoyarme a través de.
 
   ## Tecnologías
 
-  DevBox está creado en Vue.js (Vue 3) con la biblioteca de componentes Naive UI y Vercel lo aloja y lo implementa continuamente. En algunas herramientas se utilizan bibliotecas de código abierto de terceros; puede encontrar la lista completa en archivo del repositorio.
+  DevKit está creado en Vue.js (Vue 3) con la biblioteca de componentes Naive UI y Vercel lo aloja y lo implementa continuamente. En algunas herramientas se utilizan bibliotecas de código abierto de terceros; puede encontrar la lista completa en archivo del repositorio.
 
   ## ¿Encontraste un error? ¿Falta una herramienta?
 

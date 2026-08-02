@@ -9,7 +9,7 @@ const errorCorrectionLevel = ref<QRCodeErrorCorrectionLevel>('medium');
 
 const errorCorrectionLevels = ['low', 'medium', 'quartile', 'high'];
 
-const text = ref('https://3434349.xyz');
+const text = ref('https://343493434.xyz');
 const { qrcode } = useQRCode({
   text,
   color: {

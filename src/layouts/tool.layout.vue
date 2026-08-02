@@ -10,7 +10,7 @@ import type { Tool } from '@/tools/tools.types';
 const route = useRoute();
 
 const head = computed<HeadObject>(() => ({
-  title: `${route.meta.name} - DevBox`,
+  title: `${route.meta.name} - DevKit`,
   meta: [
     {
       name: 'description',

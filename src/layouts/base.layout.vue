@@ -58,7 +58,7 @@ const tools = computed<ToolCategory[]>(() => [
 
         <div class="footer">
           <div>
-            DevBox - v{{ version }}
+            DevKit - v{{ version }}
           </div>
           <div>
             © {{ new Date().getFullYear() }} · 本站基于开源项目二次开发

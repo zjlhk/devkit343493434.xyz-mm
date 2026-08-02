@@ -15,32 +15,32 @@ home:
  toggleMenu: Menü umschalten
  home: Startseite
  uiLib: UI-Bibliothek
- support: Unterstütze die Entwicklung von DevBox
+ support: Unterstütze die Entwicklung von DevKit
  buyMeACoffee: Kauf mir einen Kaffee
  follow:
-  title: Magst du DevBox?
+  title: Magst du DevKit?
   p1: Gib uns einen Stern auf
-  githubRepository: DevBox GitHub-Repository
+  githubRepository: DevKit GitHub-Repository
   p2: oder folge uns auf
-  twitterXAccount: DevBox X-Konto
+  twitterXAccount: DevKit X-Konto
   thankYou: Vielen Dank!
  nav:
   github: GitHub-Repository
-  githubRepository: DevBox GitHub-Repository
+  githubRepository: DevKit GitHub-Repository
   twitterX: X-Konto
-  twitterXAccount: DevBox X-Konto
-  about: Über DevBox
+  twitterXAccount: DevKit X-Konto
+  about: Über DevKit
   aboutLabel: Über
   darkMode: Dunkelmodus
   lightMode: Hellmodus
   mode: Wechseln zwischen dunklem/hellem Modus
 about:
  content: >
-  # Über DevBox
+  # Über DevKit
 
-  DevBox ist eine kostenlose Sammlung praktischer Online-Tools für Entwickler und IT-Profis. Alle Tools laufen vollständig in deinem Browser — deine Daten verlassen niemals dein Gerät.
+  DevKit ist eine kostenlose Sammlung praktischer Online-Tools für Entwickler und IT-Profis. Alle Tools laufen vollständig in deinem Browser — deine Daten verlassen niemals dein Gerät.
 
-  DevBox basiert auf einem bekannten Open-Source-Projekt und wurde sorgfältig weiterentwickelt, um dir eine schnelle, private und benutzerfreundliche Toolbox zu bieten.
+  DevKit basiert auf einem bekannten Open-Source-Projekt und wurde sorgfältig weiterentwickelt, um dir eine schnelle, private und benutzerfreundliche Toolbox zu bieten.
 
   ## Datenschutz
 
@@ -48,7 +48,7 @@ about:
 
   ## Technologien
 
-  DevBox wurde mit Vue.js (Vue 3) und der Naive UI-Komponentenbibliothek erstellt. In einigen Tools werden Drittanbieter-Open-Source-Bibliotheken verwendet. Du findest die vollständige Liste in der package.json-Datei des Repositorys.
+  DevKit wurde mit Vue.js (Vue 3) und der Naive UI-Komponentenbibliothek erstellt. In einigen Tools werden Drittanbieter-Open-Source-Bibliotheken verwendet. Du findest die vollständige Liste in der package.json-Datei des Repositorys.
 
   ## Einen Fehler gefunden? Ein Tool fehlt?
 

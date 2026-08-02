@@ -46,7 +46,7 @@ export const useCommandPaletteStore = defineStore('command-palette', () => {
     },
     {
       name: 'About',
-      description: 'Learn more about DevBox.',
+      description: 'Learn more about DevKit.',
       to: '/about',
       category: 'Pages',
       keywords: ['about', 'learn', 'more', 'info', 'information'],

@@ -57,13 +57,13 @@ export default defineConfig({
       registerType: 'autoUpdate',
       strategies: 'generateSW',
       manifest: {
-        name: 'DevBox',
-        description: 'Handy online tools for developers, with great UX.',
+        name: 'DevKit',
+        description: 'Free online tools for developers.',
         display: 'standalone',
         lang: 'en',
         start_url: `${baseUrl}?utm_source=pwa&utm_medium=pwa`,
         orientation: 'any',
-        theme_color: '#18a058',
+        theme_color: '#2563eb',
         background_color: '#f1f5f9',
         icons: [
           {

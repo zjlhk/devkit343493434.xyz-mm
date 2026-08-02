@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="public/banner.png" alt="DevBox banner" width="300px" />
+  <img src="public/banner.png" alt="DevKit banner" width="300px" />
 </p>
 
-# DevBox 🧰
+# DevKit 🧰
 
 Handy online tools for developers and people working in IT.
 
-DevBox is a free collection of practical online tools — converters, formatters, generators, encoders and calculators — that run entirely in your browser. Your data never leaves your device.
+DevKit is a free collection of practical online tools — converters, formatters, generators, encoders and calculators — that run entirely in your browser. Your data never leaves your device.
 
 ## ✨ Features
 
@@ -28,4 +28,4 @@ This project is based on an open-source project (GPL-3.0) and re-developed for i
 
 ---
 
-© DevBox. 本站基于开源项目二次开发。
+© DevKit. 本站基于开源项目二次开发。

@@ -4,25 +4,25 @@ home:
     favoriteTools: 'Your favorite tools'
     allTools: 'All the tools'
     favoritesDndToolTip: 'Drag and drop to reorder favorites'
-  subtitle: 'Handy online tools for developers'
+  subtitle: 'Free online tools for developers'
   toggleMenu: 'Toggle menu'
   home: Home
   uiLib: 'UI Lib'
-  support: 'Support DevBox development'
+  support: 'Support DevKit development'
   buyMeACoffee: 'Buy us a coffee'
   follow:
-    title: 'Enjoying DevBox?'
+    title: 'Enjoying DevKit?'
     p1: 'All tools run locally in your browser'
-    githubRepository: 'DevBox GitHub repository'
+    githubRepository: 'DevKit GitHub repository'
     p2: '— no data leaves your device'
-    twitterXAccount: 'DevBox X account'
+    twitterXAccount: 'DevKit X account'
     thankYou: 'Thank you!'
   nav:
     github: 'GitHub repository'
-    githubRepository: 'DevBox GitHub repository'
+    githubRepository: 'DevKit GitHub repository'
     twitterX: 'X account'
-    twitterXAccount: 'DevBox X account'
-    about: 'About DevBox'
+    twitterXAccount: 'DevKit X account'
+    about: 'About DevKit'
     aboutLabel: 'About'
     privacy: 'Privacy Policy'
     darkMode: 'Dark mode'
@@ -30,11 +30,11 @@ home:
     mode: 'Toggle dark/light mode'
 about:
   content: >
-    # About DevBox
+    # About DevKit
 
-    DevBox is a free collection of practical online tools for developers and IT professionals. All tools run entirely in your browser — your data never leaves your device.
+    DevKit is a free collection of practical online tools for developers and IT professionals. All tools run entirely in your browser — your data never leaves your device.
 
-    DevBox is built on top of a well-known open-source project and re-developed with care to bring you a fast, private and easy-to-use toolbox.
+    DevKit is built on top of a well-known open-source project and re-developed with care to bring you a fast, private and easy-to-use toolbox.
 
     ## Privacy
 
@@ -42,7 +42,7 @@ about:
 
     ## Technologies
 
-    DevBox is built with Vue.js (Vue 3) and the Naive UI component library. Third-party open-source libraries are used in some tools, you may find the complete list in the package.json file of the repository.
+    DevKit is built with Vue.js (Vue 3) and the Naive UI component library. Third-party open-source libraries are used in some tools, you may find the complete list in the package.json file of the repository.
 
     ## Found a bug? A tool is missing?
 
@@ -53,7 +53,7 @@ privacy:
 
     **Effective date:** August 1, 2026
 
-    At DevBox ("we", "us", or "our"), your privacy matters to us. This policy explains what information we collect and how we use it.
+    At DevKit ("we", "us", or "our"), your privacy matters to us. This policy explains what information we collect and how we use it.
 
     ## 1. No data collection by the tools
 

@@ -8,36 +8,36 @@ home:
  toggleMenu: 'Vekslemenmy'
  home: Hjem
  uiLib: 'UI Bib'
- support: 'Støtt utviklingen av DevBox'
+ support: 'Støtt utviklingen av DevKit'
  buyMeACoffee: 'Kjøp en kaffe til meg'
  follow:
   title: 'Liker du it-tools?'
   p1: 'Gi oss en stjerne på'
-  githubRepository: 'DevBox GitHub-depotet'
+  githubRepository: 'DevKit GitHub-depotet'
   p2: 'eller følg oss på'
-  twitterXAccount: 'DevBox sin X konto'
+  twitterXAccount: 'DevKit sin X konto'
   thankYou: 'Tusen takk!'
  nav:
   github: 'GitHub-depot'
-  githubRepository: 'DevBox GitHub-depot'
+  githubRepository: 'DevKit GitHub-depot'
   twitterX: 'X konto'
-  twitterXAccount: 'DevBox X konto'
-  about: 'Om DevBox'
+  twitterXAccount: 'DevKit X konto'
+  about: 'Om DevKit'
   aboutLabel: 'Om'
   darkMode: 'Mørk modus'
   lightMode: 'Lys modus'
   mode: 'Veksle mørk/lys modus'
 about:
  content: >
-  # Om DevBox
+  # Om DevKit
 
-  Denne vidunderlige nettsiden, laget med ❤ av DevBox, sammenstiller nyttige verktøy for utviklere og folk som jobber innen IT. Hvis du finner dette nyttig, Del det gjerne med andre som du tror kan få nytte av dette, og ikke glem å lage et bokmerke!
+  Denne vidunderlige nettsiden, laget med ❤ av DevKit, sammenstiller nyttige verktøy for utviklere og folk som jobber innen IT. Hvis du finner dette nyttig, Del det gjerne med andre som du tror kan få nytte av dette, og ikke glem å lage et bokmerke!
 
-  DevBox er åpen kildekode (under GPL-3.0 lisensen) og gratis, og det vil det alltid være, men det koster å drifte og å fornye domenet. Hvis du ønsker å støtte arbeidet mitt, og motivere meg til å legge til flere verktøy, gjerne støtt meg ved å.
+  DevKit er åpen kildekode (under GPL-3.0 lisensen) og gratis, og det vil det alltid være, men det koster å drifte og å fornye domenet. Hvis du ønsker å støtte arbeidet mitt, og motivere meg til å legge til flere verktøy, gjerne støtt meg ved å.
 
   ## Teknologier
 
-  DevBox er laget i Vue.js (Vue 3) med Naive UI komponent bibliotektet og er hosted og kontinuerlig deployet av Vercel. Tredjeparts åpen-kildekode biblioteker er brukt i noen verktøy, du kan finne den komplette listen i filen i depoet.
+  DevKit er laget i Vue.js (Vue 3) med Naive UI komponent bibliotektet og er hosted og kontinuerlig deployet av Vercel. Tredjeparts åpen-kildekode biblioteker er brukt i noen verktøy, du kan finne den komplette listen i filen i depoet.
 
   ## Funnet en feil? Et verktøy som mangler?
 

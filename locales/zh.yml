@@ -4,25 +4,25 @@ home:
     favoriteTools: '我的收藏'
     allTools: '全部工具'
     favoritesDndToolTip: '拖放重新排列收藏夹'
-  subtitle: '实用的在线开发工具'
+  subtitle: '免费的在线开发工具'
   toggleMenu: '切换菜单'
   home: '主页'
   uiLib: 'UI 库'
-  support: '支持 DevBox 开发'
+  support: '支持 DevKit 开发'
   buyMeACoffee: '赞助'
   follow:
-    title: '喜欢 DevBox 吗？'
+    title: '喜欢 DevKit 吗？'
     p1: '所有工具都在本地运行'
-    githubRepository: 'DevBox GitHub 仓库'
+    githubRepository: 'DevKit GitHub 仓库'
     p2: '数据不会离开你的设备'
-    twitterXAccount: 'DevBox X 账号'
+    twitterXAccount: 'DevKit X 账号'
     thankYou: '感谢您的支持！'
   nav:
     github: 'GitHub 仓库'
-    githubRepository: 'DevBox GitHub 仓库'
+    githubRepository: 'DevKit GitHub 仓库'
     twitterX: 'Twitter 账号'
-    twitterXAccount: 'DevBox X 账号'
-    about: '关于 DevBox'
+    twitterXAccount: 'DevKit X 账号'
+    about: '关于 DevKit'
     aboutLabel: '关于'
     privacy: '隐私政策'
     darkMode: '深色模式'
@@ -30,11 +30,11 @@ home:
     mode: '颜色模式'
 about:
   content: >
-    # 关于 DevBox
+    # 关于 DevKit
 
-    DevBox 是一个免费实用的在线工具集合，专为开发者和 IT 从业者打造。所有工具都在浏览器本地运行——您的数据绝不会离开您的设备。
+    DevKit 是一个免费实用的在线工具集合，专为开发者和 IT 从业者打造。所有工具都在浏览器本地运行——您的数据绝不会离开您的设备。
 
-    DevBox 基于知名的开源项目二次开发，经过重新设计与打磨，为您提供快速、私密、易用的工具箱。
+    DevKit 基于知名的开源项目二次开发，经过重新设计与打磨，为您提供快速、私密、易用的工具箱。
 
     ## 隐私
 
@@ -42,7 +42,7 @@ about:
 
     ## 技术
 
-    DevBox 采用 Vue.js（Vue 3）和 Naive UI 组件库开发。某些工具使用了第三方开源库，您可以在仓库的 package.json 文件中找到完整的列表。
+    DevKit 采用 Vue.js（Vue 3）和 Naive UI 组件库开发。某些工具使用了第三方开源库，您可以在仓库的 package.json 文件中找到完整的列表。
 
     ## 发现了 Bug？缺少工具？
 
@@ -53,7 +53,7 @@ privacy:
 
     **生效日期：** 2026 年 8 月 1 日
 
-    DevBox（"我们"）非常重视您的隐私。本政策说明我们收集哪些信息以及如何使用这些信息。
+    DevKit（"我们"）非常重视您的隐私。本政策说明我们收集哪些信息以及如何使用这些信息。
 
     ## 1. 工具不收集任何数据
 
