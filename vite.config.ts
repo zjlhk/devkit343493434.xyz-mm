@@ -56,6 +56,7 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       strategies: 'generateSW',
+      filename: 'pwa-sw.js',
       manifest: {
         name: 'DevKit',
         description: 'Free online tools for developers.',
